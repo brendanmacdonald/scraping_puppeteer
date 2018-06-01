@@ -1,4 +1,4 @@
 ### Execute with:
 ```
-node test.js
+npm run test
 ```
