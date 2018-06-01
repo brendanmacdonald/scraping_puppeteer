@@ -1,0 +1,10 @@
+{
+    "name": "webscraping_puppeteer",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "nightwatch -c config.js"
+    },
+    "devDependencies": {
+        "puppeteer": "^1.4.0"
+    }
+}
