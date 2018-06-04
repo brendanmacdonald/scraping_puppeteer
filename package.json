@@ -2,7 +2,7 @@
     "name": "webscraping_puppeteer",
     "version": "0.0.1",
     "scripts": {
-        "test": "node test.js"
+        "test": "node index.js"
     },
     "devDependencies": {
         "puppeteer": "^1.4.0"
