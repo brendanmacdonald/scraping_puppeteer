@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer');
-const creds = require('./creds');
-const obj = require('./obj');
+const creds = require('../utils/creds');
+const obj = require('../utils/obj');
 
 async function run() {
     const browser = await puppeteer.launch({
